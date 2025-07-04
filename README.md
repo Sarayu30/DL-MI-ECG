@@ -6,7 +6,7 @@ This repository presents a deep learning pipeline for the automatic classificati
 
 ## 📁 Dataset Description
 
-The dataset used is the **[ECG Images Dataset of Cardiac Patients](https://data.mendeley.com/datasets/6y5dyrj9v2/1)**, consisting of **3951 pre-segmented ECG images** across 4 clinical categories:
+The dataset used consists of **3951 pre-segmented ECG images** across 4 clinical categories:
 
 | Class                | Training Images | Testing Images | Total |
 |---------------------|------------------|----------------|-------|
